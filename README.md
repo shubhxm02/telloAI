@@ -65,7 +65,7 @@ To run the person tracker program, run the following file : `tello_yolo.ipynb`
 
 # Upcoming project preview
 
-[Obstacle Avoidance and Path planning for Tello](https://www.canva.com/design/DAE-4JBoS8w/m8XRCqE6BV8M7DSDp_QfmQ/view?utm_content=DAE-4JBoS8w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#13)
+[Obstacle Avoidance and Path planning for Tello](https://www.canva.com/design/DAE-4JBoS8w/m8XRCqE6BV8M7DSDp_QfmQ/view?utm_content=DAE-4JBoS8w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
 [![Presentation](https://user-images.githubusercontent.com/74921415/179099404-5a52898b-d4a2-4ab2-9803-e200c7ced842.png)](https://www.canva.com/design/DAE-4JBoS8w/m8XRCqE6BV8M7DSDp_QfmQ/view?utm_content=DAE-4JBoS8w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
